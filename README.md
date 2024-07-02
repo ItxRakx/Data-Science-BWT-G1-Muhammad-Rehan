@@ -1,5 +1,5 @@
 Data Science ByteWise Fellowship Tasks
-Hi, my name is Muhammad Rehan.This repository serves as a platform where I will be uploading my Data Science ByteWise Fellowship tasks for every week.
+Hi,my name is Muhammad Rehan.This repository serves as a platform where I will be uploading my Data Science ByteWise Fellowship tasks for every week.
 
 WEEKLY TASKS - 1
 
