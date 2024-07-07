@@ -10,7 +10,7 @@ WEEKLY TASK 2/3
 In this task, we explored Git & GitHub basics, covering essential stages like modifying files, staging changes, and committing them. We also explored branching and merging, which are crucial for collaborative coding and project management.
 
 WEEKLY TASK 3/3
-Basic statistics like mean, median, and mode, which help us to understand and analyze data better.
+Basic statistics like mean, median, and mode,Descriptive vs Inferential and Distribution which help us to understand and analyze data better.
 
 WEEKLY TASK 4
 Python basics (variables, strings(built-in function),conditional statements and operators).
